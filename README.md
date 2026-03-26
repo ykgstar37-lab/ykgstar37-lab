@@ -7,13 +7,17 @@
 </p>
 
 <p align="center">
+  <a href="mailto:yge0307@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yoon0307eun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ykgstar37-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
 
 ### About Me
 
+- **가천대학교** 응용통계학과
 - 통계학 기반 데이터 분석 + 웹 서비스 개발
 - GARCH 모형, Monte Carlo 시뮬레이션, LLM 활용 프로젝트 경험
 - Python / JavaScript 풀스택 개발
@@ -157,21 +161,30 @@
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ykgstar37-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykgstar37-lab&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ykgstar37-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ykgstar37-lab&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykgstar37-lab&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykgstar37-lab&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
+</div>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ykgstar37-lab&color=3B82F6&style=flat-square&label=Profile+Views"/>
+</p>
+
+<p align="center">
+  <a href="mailto:yge0307@gmail.com"><img src="https://img.shields.io/badge/yge0307@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yoon0307eun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
