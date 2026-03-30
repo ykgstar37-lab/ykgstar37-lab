@@ -116,7 +116,7 @@
         <img src="https://img.shields.io/badge/Team-F59E0B?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/ykgstar37-lab/SKN21">
+        <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN21-4th-4Team">
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -140,7 +140,7 @@
         <img src="https://img.shields.io/badge/Personal-3B82F6?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/ykgstar37-lab/Hecto">
+        <a href="https://github.com/ykgstar37-lab/seoul-culture-map">
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
