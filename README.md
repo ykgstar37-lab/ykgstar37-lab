@@ -116,7 +116,7 @@
         <img src="https://img.shields.io/badge/Team-F59E0B?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN21-4th-4Team">
+        <a href="https://github.com/ykgstar37-lab/SKN21">
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -140,7 +140,7 @@
         <img src="https://img.shields.io/badge/Personal-3B82F6?style=flat-square"/>
       </p>
       <p align="center">
-        <a href="https://github.com/ykgstar37-lab/seoul-culture-map">
+        <a href="https://github.com/ykgstar37-lab/Hecto">
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
@@ -167,12 +167,16 @@
         </a>
       </p>
       <p>
-        <b>AI 기반 업무 워크플로우 자동화 에이전트</b><br/>
-        LLM 기반 업무 자동화 및 워크플로우 관리 도구입니다.
+        <b>DUDE — Multi-Agent 팀 워크스페이스</b><br/>
+        사내 규정 판단, 문서 생성/요약, 일정/결재 관리를 하나의 채팅으로 처리하는 Multi-Agent 시스템. Kanana-1.5-8B + LoRA 4종 파인튜닝, RAG(Qdrant + BM25 + Reranker), Google Workspace 5종 연동. <i>담당: 판단 Agent, RAG, LoRA 파인튜닝</i>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square"/>
+        <img src="https://img.shields.io/badge/LoRA-8B5CF6?style=flat-square"/>
       </p>
     </td>
   </tr>
