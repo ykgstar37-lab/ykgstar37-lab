@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yoon+Gyeongeun;Full+Stack+Developer;Data+%26+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yoon+Gyeongeun;Server+%26+AI+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>통계 기반 분석 + 풀스택 개발로 데이터를 서비스로 전환합니다</b>
+  <b>통계적 사고 + AI 서빙 경험으로 안정적인 서버 시스템을 만듭니다</b>
 </p>
 
 <p align="center">
@@ -17,11 +17,12 @@
 
 ### About Me
 
-- **가천대학교** 응용통계학과 4학년
-- 통계학 기반 분석(GARCH, Monte Carlo, K-means)을 **풀스택 웹 서비스로 전환**하는 데 집중
-- Jupyter/R 분석 결과를 실시간 대시보드, 인터랙티브 지도 등 사용자 서비스로 확장한 경험
-- LangChain/LangGraph 기반 AI 에이전트 및 RAG 파이프라인 구축
-- Python(FastAPI, Django) + JavaScript/TypeScript(React) 풀스택 개발
+- **가천대학교** 응용통계학과 · 경영학과 (2020.03 ~ 2026.08)
+- **SK네트웍스 Family AI Camp** SKN 21기 (2025.09 ~ 2026.03)
+- vLLM + LoRA 핫스왑으로 GPT→sLLM 전환, embedding 차원 최적화(768D→3072D) 등 **AI 모델 서빙** 경험
+- 통계 모형(GARCH, K-means)을 API로 서빙하며 캐싱, 에러 격리, 검증 시스템 등 **서버 설계** 경험
+- LangGraph/LangChain 기반 멀티 Agent 시스템 + 9단계 RAG 파이프라인 구축
+- **ADsP** · **SQLD** 자격증 보유
 
 ---
 
@@ -208,27 +209,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ykgstar37-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ykgstar37-lab&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykgstar37-lab&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykgstar37-lab&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
 
 ---
 
