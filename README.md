@@ -10,7 +10,7 @@
   <a href="mailto:yge0307@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yoon0307eun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ykgstar37-lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-nine-orcin-86.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://yge-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -212,11 +212,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ykgstar37-lab&color=3B82F6&style=flat-square&label=Profile+Views"/>
-</p>
 
 <p align="center">
+  <a href="https://yge-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=flat-square&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:yge0307@gmail.com"><img src="https://img.shields.io/badge/yge0307@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yoon0307eun"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
