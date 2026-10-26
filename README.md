@@ -206,6 +206,26 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">RECoco</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Personal-3B82F6?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ykgstar37-lab/RECoco">
+          <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p>
+        <b>레코코 — 영수증·티켓으로 출력하는 기록 앱</b><br/>
+        읽은 책, 본 영화, 쓴 돈, 여행, 인생네컷을 진짜 영수증·티켓처럼 출력해 롤에 쌓아두는 모바일 앱. 마스코트 코코 밑에서 영수증을 잡아당겨 뜯는 인터랙션, 12개 카테고리와 수집형 코코몬 카드 테마, 포토부스 QR로 네컷 원본 가져오기, 인앱 결제를 제공합니다. 서버 없이 기기 안에 기록을 저장합니다.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black"/>
+        <img src="https://img.shields.io/badge/In--App_Purchase-F97316?style=flat-square"/>
+      </p>
     </td>
   </tr>
 </table>
