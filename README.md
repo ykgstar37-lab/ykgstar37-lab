@@ -168,7 +168,7 @@
         </a>
       </p>
       <p>
-        <b>DUDE — Multi-Agent 팀 워크스페이스</b><br/>
+        <b>Multi-Agent 팀 워크스페이스</b><br/>
         사내 규정 판단, 문서 생성/요약, 일정/결재 관리를 하나의 채팅으로 처리하는 Multi-Agent 시스템. Kanana-1.5-8B + LoRA 4종 파인튜닝, RAG(Qdrant + BM25 + Reranker), Google Workspace 5종 연동. <i>담당: 판단 Agent, RAG, LoRA 파인튜닝</i>
       </p>
       <p>
@@ -196,7 +196,7 @@
         </a>
       </p>
       <p>
-        <b>구독 서비스 통합 관리 플랫폼</b><br/>
+        <b>구독 서비스 통합 관리 플랫폼 app</b><br/>
         Netflix, Spotify 등 30개 이상의 구독 서비스를 한곳에서 관리합니다. 월별 지출 추이 분석, 카테고리별 비중 차트, 결제일 캘린더, 환율 변동 알림, 중복 구독 감지, 절약 제안, 가격 변동 알림, 무료 체험 만료 추적 기능을 제공합니다. 
       </p>
       <p>
@@ -220,7 +220,7 @@
         <img src="https://img.shields.io/badge/App_Store-Coming_Soon-9CA3AF?style=for-the-badge&logo=appstore&logoColor=white"/>
       </p>
       <p>
-        <b>레코코 — 영수증·티켓으로 출력하는 기록 앱</b><br/>
+        <b>영수증·티켓으로 출력하는 기록 앱</b><br/>
         읽은 책, 본 영화, 쓴 돈, 여행, 인생네컷을 진짜 영수증·티켓처럼 출력해 롤에 쌓아두는 모바일 앱. 마스코트 코코 밑에서 영수증을 잡아당겨 뜯는 인터랙션, 12개 카테고리와 수집형 코코몬 카드 테마, 포토부스 QR로 네컷 원본 가져오기, 인앱 결제를 제공합니다. 서버 없이 기기 안에 기록을 저장합니다.
       </p>
       <p>
