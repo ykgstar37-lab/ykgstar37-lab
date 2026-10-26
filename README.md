@@ -227,8 +227,7 @@
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black"/>
-        <img src="https://img.shields.io/badge/In--App_Purchase-F97316?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black"/>  <img src="https://img.shields.io/badge/In--App_Purchase-F97316?style=flat-square"/>
       </p>
     </td>
   </tr>
