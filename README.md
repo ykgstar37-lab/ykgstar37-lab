@@ -220,7 +220,7 @@
         <img src="https://img.shields.io/badge/App_Store-Coming_Soon-9CA3AF?style=for-the-badge&logo=appstore&logoColor=white"/>
       </p>
       <p>
-        <b>영수증·티켓으로 출력하는 기록 앱</b><br/>
+        <b>영수증·티켓으로 출력하는 기록 app</b><br/>
         읽은 책, 본 영화, 쓴 돈, 여행, 인생네컷을 진짜 영수증·티켓처럼 출력해 롤에 쌓아두는 모바일 앱. 마스코트 코코 밑에서 영수증을 잡아당겨 뜯는 인터랙션, 12개 카테고리와 수집형 코코몬 카드 테마, 포토부스 QR로 네컷 원본 가져오기, 인앱 결제를 제공합니다. 서버 없이 기기 안에 기록을 저장합니다.
       </p>
       <p>
