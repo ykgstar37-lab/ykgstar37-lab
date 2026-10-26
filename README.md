@@ -192,7 +192,7 @@
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <a href="https://apps.apple.com/kr/app/id6806811998">
-          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
+          <img src="https://img.shields.io/badge/App-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"/>
         </a>
       </p>
       <p>
@@ -217,7 +217,7 @@
         <a href="https://github.com/ykgstar37-lab/RECoco">
           <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
-        <img src="https://img.shields.io/badge/App_Store-Coming_Soon-9CA3AF?style=for-the-badge&logo=appstore&logoColor=white"/>
+        <img src="https://img.shields.io/badge/App-Coming_Soon-9CA3AF?style=for-the-badge&logo=appstore&logoColor=white"/>
       </p>
       <p>
         <b>영수증·티켓으로 출력하는 기록 app</b><br/>
