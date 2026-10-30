@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Yoon+Gyeongeun;Server+%26+AI+Engineer" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="./assets/hi_pop.gif" width="700" alt="Hi, I'm Yoon Gyeongeun" />
+</p>
 
 <p align="center">
   <b>통계적 사고 + AI 서빙 경험으로 안정적인 서버 시스템을 만듭니다</b>
