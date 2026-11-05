@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/hi_pop.gif" width="700" alt="Hi, I'm Yoon Gyeongeun" />
-</p>
-
-<p align="center">
   <b>통계적 사고 + AI 서빙 경험으로 안정적인 서버 시스템을 만듭니다</b>
 </p>
 
